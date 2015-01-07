@@ -2,6 +2,9 @@
 # 2-D colocalisation in cells using CellProfiler
 #
 
+The workflow computes cell-based colocalisation of two stainings in 2-D images. Both pixel- and object-based readouts are provided and the pros and cons are shortly discussed below. 
+
+
 ## Input data
 
 each image set contains stainings for
